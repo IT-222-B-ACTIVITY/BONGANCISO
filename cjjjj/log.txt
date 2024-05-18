@@ -1,0 +1,18 @@
+Sat May 18 9:32:28 CEST 2024 - yamashita statue listed by  melvin amalla for starting price 25600.
+Sat May 18 9:32:28 CEST 2024 - yamashita statue selling by  melvin amalla for starting price 25600.
+Sat May 18 9:32:28 CEST 2024 - kitsune sword listed by kenneth bislig for starting price 23500.
+Sat May 18 9:32:28 CEST 2024 - kitsune sword selling by kenneth bislig for starting price 23500.
+Sat May 18 9:32:28 CEST 2024 - Bid amount must be higher than current bid of .
+Sat May 18 9:32:28 CEST 2024 - Bid amount must be higher than current bid of .
+Sat May 18 9:32:28 CEST 2024 - Auctioneer is managing the auction:
+Sat May 18 9:32:28 CEST 2024 - Managing item: yamashita statue (Current bid: )
+Sat May 18 9:32:28 CEST 2024 - Auctioneer is managing the auction:
+Sat May 18 9:32:28 CEST 2024 - Managing item: kitsune sword (Current bid: )
+Sat May 18 9:32:28 CEST 2024 - Closing auction for item: yamashita statue (Final bid: )
+Sat May 18 9:32:28 CEST 2024 - Closing auction for item: kitsune sword (Final bid: )
+Sat May 18 9:32:28 CEST 2024 - Christian Timagos win the bidding on yamashita statue
+Sat May 18 9:32:28 CEST 2024 - Joshua Portacion win the bidding on kitsune sword
+Sat May 18 9:32:28 CEST 2024 - yamashita statue listed by  melvin amalla for starting price 25600.
+Sat May 18 9:32:28 CEST 2024 - yamashita statue selling by  melvin amalla for starting price 25600.
+Sat May 18 9:32:28 CEST 2024 - kitsune sword listed by kenneth bislig for starting price 23500.
+Sat May 18 9:32:28 CEST 2024 - kitsune sword selling by kenneth bislig for starting price 23500.
